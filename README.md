@@ -8,7 +8,7 @@ Currently **developing and auditing on EVM, EOSIO, and Move based platforms**. P
   <img align="left" alt="Ville's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[solarius.eth](https://etherscan.io/address/0x41011363b95eb19918285b39baf34331bdf2e658)
+[solarius.eth](https://etherscan.io/address/0x41011363b95eb19918285b39baf34331bdf2e658) [move.engineer](http://move.engineer)
 
 <!--
 **villesundell/villesundell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
