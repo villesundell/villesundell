@@ -5,7 +5,7 @@ Working with smart contracts since Bitcoin’s Script and colored coins, stumble
 Currently **developing and auditing on EVM, EOSIO, and Move based platforms**. Programmer since the turn of the millennium (Web / Linux / Windows).
 
 <a href="https://www.linkedin.com/in/villesundell/">
-  <img align="left" alt="Ville's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ville's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 [villesundell.com](https://www.villesundell.com) / [solarius.eth](https://etherscan.io/address/0x41011363b95eb19918285b39baf34331bdf2e658) / [move.engineer](http://move.engineer) / [MtGox user #539516](https://opensea.io/assets/matic/0xb7b357b9b6697dcf584097d8ab7d2d1cff4ab33c/539516)
