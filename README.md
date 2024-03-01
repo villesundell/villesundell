@@ -4,6 +4,11 @@ Working with smart contracts since Bitcoin’s Script and colored coins, stumble
 
 Currently **developing and auditing on EVM, EOSIO, and Move based platforms**. Programmer since the turn of the millennium (Web / Linux / Windows).
 
+
+**Blog articles**: [I was wrong](https://www.linkedin.com/pulse/i-wrong-ville-sundell/) (2023), [Burning void: a story about lightbulbs and cryptocurrencies](https://www.linkedin.com/pulse/burning-void-story-lightbulbs-cryptocurrencies-ville-sundell/), [When code must be law - smart contracts for suits](https://www.linkedin.com/pulse/when-code-must-law-smart-contracts-suits-ville-sundell/), [Etherprises LLC - Set up your own company on Ethereum blockchain](https://www.linkedin.com/pulse/etherprises-llc-set-up-your-own-company-ethereum-ville-sundell/), [Creating a ‘chainterprise’ in Finland on Ethereum](https://www.linkedin.com/pulse/creating-chainterprise-finland-ethereum-ville-sundell/) (2016).
+
+**Scientific articles**: [Code is Law: A Legal Justification of Irreversible Execution of Smart Contracts through Consideration](https://doi.org/10.31219/osf.io/z9gma).
+
 <a href="https://www.linkedin.com/in/villesundell/">
   <img align="left" alt="Ville's LinkedIn" width="22px" style="padding-right: 5px;" src="https://cdn.simpleicons.org/linkedin" />
 </a>
