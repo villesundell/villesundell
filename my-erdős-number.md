@@ -1,14 +1,14 @@
 # My Erdős (and other) numbers
+Separation games are interesting. Here I list the following numbers for me: [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number), [Dijkstra number](https://people.eecs.ku.edu/~saiedian/saiedian-erdos-dijkstra-number.php), [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number), [Morphy number](https://en.wikipedia.org/wiki/Morphy_number). I also introduce two more numbers: **Torvalds** for programmers, and **Thiel** for businesspeople.
 
-While [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is originally measured from co-authored academic articles, Wikidata implicitly conforms to a broader definition, covering all co-authored publications, including non-academic books. The authoritative source for this wider definition is the gold standard (as mentioned on the [Main Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)) [Douglas Adams Wikidata item](https://www.wikidata.org/wiki/Q42), which defines Adams' Erdős number as 10, referring to [this](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16) source. The key is the non-academic book "[Last Chance to See](https://en.wikipedia.org/wiki/Last_Chance_to_See)", which he co-authored with [Mark Carwardine](https://www.wikidata.org/wiki/Q897408), an academic with Erdős number 9. This links Adams to the academic circle and eventually to Paul Erdős.
+## Method
+While [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is originally measured from co-authored academic articles, Wikidata implicitly conforms to a broader definition, covering all co-authored publications, including non-academic books. The authoritative source for this wider definition is the gold standard (as mentioned on the [Main Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)) [Douglas Adams Wikidata item](https://www.wikidata.org/wiki/Q42), which defines Adams' Erdős number as 10, referring to [the Erdos-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16) as the source. The key is the non-academic book "[Last Chance to See](https://en.wikipedia.org/wiki/Last_Chance_to_See)", which he co-authored with [Mark Carwardine](https://www.wikidata.org/wiki/Q897408), an academic with Erdős number 9. This links Adams to the academic circle and eventually to Paul Erdős.
 
-I am similarly linked to Paul Erdős via an academic [Stian Rødven Eide](https://www.wikidata.org/wiki/Q101662382) with Erdős number 4, with whom we published a book in 2009 called "[Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)" with a few others ([Amazon](https://www.amazon.com/dp/B005D2ZUUA)), giving me Erdős number 5 by the broader interpretation above. One of the other co-authors, [Stefan Larsson](https://scholar.google.com/citations?user=0RpIUtQAAAAJ) also has [Erdős number 4](https://www.csauthors.net/stefan-larsson/). The book has been [cited](https://scholar.google.com/scholar?cites=17471154990118781681) in academic literature.
-
-It's worth noting that an Erdős number of 5 is quite low for someone like me, who has never co-authored any academic papers. This anomaly, in my view, invites further examination of the current Wikidata interpretation of Erdős numbers. But as long as the interpretation stands, it seems that my Erdős number is indeed 5 😅
-
-Mimicking the format of the [Adams source](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16), here is the path from me to Paul Erdős (via both routes):
+**In this document we follow this interpretation, where the umbrella definition is used (acting instead of movies, publication instead of scientific paper).** Also we follow the format of the [the Erdos-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16).
 
 ## Erdős 5 (via Stian Rødven Eide)
+I am linked to Paul Erdős via an academic [Stian Rødven Eide](https://www.wikidata.org/wiki/Q101662382) with Erdős number 4, with whom we published a book in 2009 called "[Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)" with a few others ([Amazon](https://www.amazon.com/dp/B005D2ZUUA)), giving me Erdős number 5 by the broader interpretation above. The book has been [cited](https://scholar.google.com/scholar?cites=17471154990118781681) in academic literature.
+
  * Ville Sundell
    [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
  * Stian Rødven Eide
@@ -22,6 +22,9 @@ Mimicking the format of the [Adams source](https://github.com/rchurchley/erdos-b
  * Paul Erdős
 
 ## Erdős 5 (via Stefan Larsson)
+One of the other co-authors of "[Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)", [Stefan Larsson](https://scholar.google.com/citations?user=0RpIUtQAAAAJ) also has [Erdős number 4](https://www.csauthors.net/stefan-larsson/). It's worth noting that an Erdős number of 5 is quite low for someone like me, who has never co-authored any academic papers. This anomaly, in my view, invites further examination of the current Wikidata interpretation of Erdős numbers. But as long as the interpretation stands, it seems that my Erdős number is indeed 5 😅
+
+
  * Ville Sundell
    [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
  * Stefan Larsson
@@ -75,7 +78,7 @@ I have played (and lost) against my friend [Eino Paasikangas](https://players.ch
  * Ville Sundell
    [TokenMarket Smart Contracts](https://github.com/TokenMarketNet/smart-contracts/commits?author=villesundell)
  * Mikko Ohtamaa
-   [Linux kernel](https://github.com/torvalds/linux/commit/111f9ecf174655f3da2b266602f20f11e6a6a4c7)
+   [Linux Kernel](https://github.com/torvalds/linux/commit/111f9ecf174655f3da2b266602f20f11e6a6a4c7)
  * Linus Torvalds
 
 ## Thiel 4 (via Jari Jaanto)
