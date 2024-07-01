@@ -8,58 +8,43 @@ It's worth noting that an Erdős number of 5 is quite low for someone like me, w
 
 Mimicking the format of the [Adams source](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16), here is the path from me to Paul Erdős (via both routes):
 
-## Erdős 5 (via Rødven Eide)
+## Erdős 5 (via Stian Rødven Eide)
  * Ville Sundell
    [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
-
  * Stian Rødven Eide
    [Generating a Gold Standard for a Swedish Sentiment Lexicon](http://www.lrec-conf.org/proceedings/lrec2018/pdf/846.pdf)
-
  * Lars Borin
    [Resource and Service Centres as the Backbone for a Sustainable Service Infrastructure](http://www.lrec-conf.org/proceedings/lrec2010/pdf/679_Paper.pdf)
-
  * Gerhard Budin
    [Perspectives on eBrain and Cognitive Computing](https://www.igi-global.com/gateway/article/75449)
-
  * D. Frank Hsu
    [Distributed Loop Network with Minimum Transmission Delay](https://www.wikidata.org/wiki/Q106872741)
-
  * Paul Erdős
 
-## Erdős 5 (via Larsson)
+## Erdős 5 (via Stefan Larsson)
  * Ville Sundell
    [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
-
  * Stefan Larsson
    [Transparency in artificial intelligence](https://www.wikidata.org/wiki/Q113426189)
-
  * Fredrik Heintz
    [Education in Artificial Intelligence K-12](https://link.springer.com/article/10.1007/s13218-021-00734-6)
-
  * Sven Koenig
    [Gridworlds as Testbeds for Planning with Incomplete Information](https://aaai.org/papers/00819-AAAI00-126-gridworlds-as-testbeds-for-planning-with-incomplete-information/)
-
  * Craig A. Tovey
    [New Ramsey Bounds from Cyclic Graphs of Prime Order](https://epubs.siam.org/doi/10.1137/S0895480196298378)
-
  * Paul Erdős
 
-## Dijkstra 5 (via Larsson)
+## Dijkstra 5 (via Stefan Larsson)
  * Ville Sundell
    [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
-
  * Stefan Larsson
    [On the importance of AI research beyond disciplines](https://arxiv.org/abs/2302.06655)
-
  * Virginia Dignum
    [2003 AAAI Spring Symposium Series](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1723)
-
  * John McCarthy
    [Report on the algorithmic language ALGOL 60](https://www.wikidata.org/wiki/Q55871759)
-
  * Alan J. Perlis
    [On a political pamphlet from the middle ages](https://dl.acm.org/doi/10.1145/1005888.1005890)
-
  * Edsger W. Dijkstra
 
 ## Bacon 4 (via Janne Virtanen)
@@ -67,16 +52,12 @@ Similarly extending, I may have a [Bacon number](https://simple.wikipedia.org/wi
 
  * Ville Sundell
    [Pelastajat](https://www.wikidata.org/wiki/Q11887242)
-
  * Janne Virtanen
    [Tears of April](https://www.themoviedb.org/movie/54669-kasky)
-
  * Samuli Vauramo
    [The American](https://www.themoviedb.org/movie/27579-the-american)
-
  * George Clooney
    [8](https://www.themoviedb.org/movie/109404-8)
-
  * Kevin Bacon
 
 ## Morphy 7 (via Eino Paasikangas)
