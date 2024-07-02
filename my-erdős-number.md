@@ -1,5 +1,5 @@
 # My Erdős (and other) numbers
-Separation games are interesting. Here I list the following numbers for me: [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number), [Dijkstra number](https://people.eecs.ku.edu/~saiedian/saiedian-erdos-dijkstra-number.php), [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number), [Morphy number](https://en.wikipedia.org/wiki/Morphy_number). I also introduce two more numbers: **Torvalds** for programmers, and **Thiel** for businesspeople.
+Separation games are interesting. Here I list the following numbers for me: [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number), [Dijkstra number](https://people.eecs.ku.edu/~saiedian/saiedian-erdos-dijkstra-number.php), [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number) and [Morphy number](https://en.wikipedia.org/wiki/Morphy_number). I also introduce two more numbers: **Torvalds number** for programmers, and **Andreessen number** for businesspeople.
 
 ## Method
 While [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is originally measured from co-authored academic articles, Wikidata implicitly conforms to a broader definition, covering all co-authored publications, including non-academic books. The authoritative source for this wider definition is the gold standard (as mentioned on the [Main Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)) [Douglas Adams Wikidata item](https://www.wikidata.org/wiki/Q42), which defines Adams' Erdős number as 10, referring to [the Erdos-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16) as the source. The key is the non-academic book "[Last Chance to See](https://en.wikipedia.org/wiki/Last_Chance_to_See)", which he co-authored with [Mark Carwardine](https://www.wikidata.org/wiki/Q897408), an academic with Erdős number 9. This links Adams to the academic circle and eventually to Paul Erdős.
@@ -94,13 +94,24 @@ I have played (and lost) against my friend [Eino Paasikangas](https://players.ch
    [Linux Kernel](https://github.com/torvalds/linux/commit/111f9ecf174655f3da2b266602f20f11e6a6a4c7)
  * Linus Torvalds
 
-## Thiel 4 (via Jari Jaanto)
-I am linked to the prominent investor Peter Thiel via 4 non-public business arrangements.
+## Andreessen 4 (via Jari Jaanto)
+I am linked to the prominent investor Marc Andreessen via 4 non-public business arrangements.
 
- * Ville Sundell was a shareholder of [Heimo](https://www.slideshare.net/slideshow/heimo-the-untellable-stories/62548233) with...
- * Jari Jaanto, who was a shareholder of Sulake with...
- * Balderton Capital, which was co-owned by...
- * Sujay Tyle, who was funded by...
- * Peter Thiel.
+ * Ville Sundell was a co-owner of [Heimo](https://www.slideshare.net/slideshow/heimo-the-untellable-stories/62548233) with...
+ * Jari Jaanto, who was a co-owner of Sulake with...
+ * Benchmark, which was a co-owner [Cyanogen Inc.](https://www.geekwire.com/2013/cyanogenmod-raises-22m/) with...
+ * a16z, which is co-owned by Marc Andreessen.
+
+## Combinations
+
+**Erdős–Bacon**: 9
+
+**Erdős-Bacon-Sabbath**: 14 (Smaller than [Kevin Bacon's](https://erdosbaconsabbath.fandom.com/wiki/Kevin_Bacon).)
+
+**Erdős-Bacon-Sabbath-Morphy**: 21 (First known instance.)
+
+**Erdős-Bacon-Sabbath-Morphy-Torvalds-Andreessen**: XX (First instance.)
+
+**Erdős-Bacon-Sabbath-Morphy-Dijkstra-Torvalds-Andreessen**: XX (First instance.)
 
 *(Commits regarding this file have been signed with my PGP key for authority control.)*
