@@ -74,6 +74,19 @@ I have played (and lost) against my friend [Eino Paasikangas](https://players.ch
  * [Ossip Bernstein vs. James Mortimer, Ostend 1907](https://www.365chess.com/game.php?gid=2633844)
  * [James Mortimer vs. Paul Morphy, various casual games](https://chesscafe.com/the-skittles-room/morphy-numbers-revisited/)
 
+## Sabbath 5 (via Manu Mäkinen)
+ * Ville Sundell
+   [Aroma therapy](https://demozoo.org/music/51173/)
+ * Manu Mäkinen
+   [Pyhyys Pelastaa](https://www.discogs.com/release/21918427-Going-Viral-Hobo-Sapien)
+ * Ville Pokki
+   [...To Die / Live For](https://www.discogs.com/release/8587450-Delayhead-Vol-80)
+ * Mika Jussila
+   [Path](https://www.discogs.com/master/28492-Apocalyptica-Cult)
+ * Eicca Toppinen
+   [I'll Get Through It](https://www.apocalyptica.com/video/apocalyptica-and-franky-perez-feat-g-6--51-.html)
+ * Geezer Butler
+
 ## Torvalds 2 (via Mikko Ohtamaa)
  * Ville Sundell
    [TokenMarket Smart Contracts](https://github.com/TokenMarketNet/smart-contracts/commits?author=villesundell)
@@ -89,8 +102,5 @@ I am linked to the prominent investor Peter Thiel via 4 non-public business arra
  * Balderton Capital, which was co-owned by...
  * Sujay Tyle, who was funded by...
  * Peter Thiel.
-
-## Sabbath ∞
-Sabbath number is the only widely used number I don't have. At least not yet 😅
 
 *(Commits regarding this file have been signed with my PGP key for authority control.)*
