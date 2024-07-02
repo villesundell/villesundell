@@ -1,10 +1,12 @@
 # My Erdős (and other) numbers
-Separation games are interesting. Here I list the following numbers for me: [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number), [Dijkstra number](https://people.eecs.ku.edu/~saiedian/saiedian-erdos-dijkstra-number.php), [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number) and [Morphy number](https://en.wikipedia.org/wiki/Morphy_number). I also introduce two more numbers: **Torvalds number** for programmers, and **Andreessen number** for businesspeople.
+Separation games are interesting. Here I list the following numbers for me: [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number), [Dijkstra number](https://people.eecs.ku.edu/~saiedian/saiedian-erdos-dijkstra-number.php), [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number) and [Morphy number](https://en.wikipedia.org/wiki/Morphy_number).
+
+I also introduce two more numbers: **Torvalds number** for programmers, and **Andreessen number** for businesspeople.
 
 ## Method
-While [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is originally measured from co-authored academic articles, Wikidata implicitly conforms to a broader definition, covering all co-authored publications, including non-academic books. The authoritative source for this wider definition is the gold standard (as mentioned on the [Main Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)) [Douglas Adams Wikidata item](https://www.wikidata.org/wiki/Q42), which defines Adams' Erdős number as 10, referring to [the Erdos-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16) as the source. The key is the non-academic book "[Last Chance to See](https://en.wikipedia.org/wiki/Last_Chance_to_See)", which he co-authored with [Mark Carwardine](https://www.wikidata.org/wiki/Q897408), an academic with Erdős number 9. This links Adams to the academic circle and eventually to Paul Erdős.
+While [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is originally measured from co-authored academic articles, some sources, such as Wikidata, implicitly conforms to a broader definition of the [Erdős-Bacon-Sabbath project](https://erdosbaconsabbath.fandom.com/wiki/Special:AllPages) (see [Douglas Adams Wikidata item](https://www.wikidata.org/wiki/Q42) which is the resident showcase item on the [Wikidata Main Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)), covering all works of the same kind (in the case of Adams' Erdős number, including non-academic books linking Adams to the academic circle via [Mark Carwardine](https://www.wikidata.org/wiki/Q897408)).
 
-**In this document we follow this interpretation, where the umbrella definition is used (acting instead of movies, publication instead of scientific paper).** Also we follow the format of the [the Erdos-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16).
+**In this document we follow the format and interpretation of [the Erdős-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16), where the umbrella definition is used (acting instead of movies, publication instead of scientific paper).**
 
 ## Erdős 5 (via Stian Rødven Eide)
 I am linked to Paul Erdős via an academic [Stian Rødven Eide](https://www.wikidata.org/wiki/Q101662382) with Erdős number 4, with whom we published a book in 2009 called "[Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)" with a few others ([Amazon](https://www.amazon.com/dp/B005D2ZUUA)), giving me Erdős number 5 by the broader interpretation above. The book has been [cited](https://scholar.google.com/scholar?cites=17471154990118781681) in academic literature.
@@ -22,8 +24,7 @@ I am linked to Paul Erdős via an academic [Stian Rødven Eide](https://www.wiki
  * Paul Erdős
 
 ## Erdős 5 (via Stefan Larsson)
-One of the other co-authors of "[Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)", [Stefan Larsson](https://scholar.google.com/citations?user=0RpIUtQAAAAJ) also has [Erdős number 4](https://www.csauthors.net/stefan-larsson/). It's worth noting that an Erdős number of 5 is quite low for someone like me, who has never co-authored any academic papers. This anomaly, in my view, invites further examination of the current Wikidata interpretation of Erdős numbers. But as long as the interpretation stands, it seems that my Erdős number is indeed 5 😅
-
+One of the other co-authors of "[Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)", [Stefan Larsson](https://scholar.google.com/citations?user=0RpIUtQAAAAJ) also has [Erdős number 4](https://www.csauthors.net/stefan-larsson/).
 
  * Ville Sundell
    [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
@@ -38,6 +39,8 @@ One of the other co-authors of "[Free Beer 1.0](https://www.wikidata.org/wiki/Q1
  * Paul Erdős
 
 ## Dijkstra 5 (via Stefan Larsson)
+Stefan Larsson also connects me to the computer scientist Edsger W. Dijkstra.
+
  * Ville Sundell
    [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
  * Stefan Larsson
@@ -75,6 +78,8 @@ I have played (and lost) against my friend [Eino Paasikangas](https://players.ch
  * [James Mortimer vs. Paul Morphy, various casual games](https://chesscafe.com/the-skittles-room/morphy-numbers-revisited/)
 
 ## Sabbath 5 (via Manu Mäkinen)
+As a demoscener I am usually coding art. However, in 2012 Manu Mäkinen made a song about our trip to a Norwegian demoparty Kindergarden based on my recording (I can be also heard in the background), hence earning me Sabbath number 5. Later this song was also featured in in-memoriam demo for DDT (the lead vocals in the song) coded by me.
+
  * Ville Sundell
    [Aroma therapy](https://demozoo.org/music/51173/)
  * Manu Mäkinen
@@ -88,6 +93,8 @@ I have played (and lost) against my friend [Eino Paasikangas](https://players.ch
  * Geezer Butler
 
 ## Torvalds 2 (via Mikko Ohtamaa)
+I am linked to the father of Linux and Git, Linus Torvalds, via a project shared with Mikko Ohtamaa, who has contributed to the Linux kernel.
+
  * Ville Sundell
    [TokenMarket Smart Contracts](https://github.com/TokenMarketNet/smart-contracts/commits?author=villesundell)
  * Mikko Ohtamaa
@@ -95,7 +102,7 @@ I have played (and lost) against my friend [Eino Paasikangas](https://players.ch
  * Linus Torvalds
 
 ## Andreessen 4 (via Jari Jaanto)
-I am linked to the prominent investor Marc Andreessen via 4 non-public business arrangements.
+I am linked to the prominent investor Marc Andreessen via 4 non-public business arrangements because of a startup co-owned with Jari Jaanto.
 
  * Ville Sundell was a co-owner of [Heimo](https://www.slideshare.net/slideshow/heimo-the-untellable-stories/62548233) with...
  * Jari Jaanto, who was a co-owner of Sulake with...
