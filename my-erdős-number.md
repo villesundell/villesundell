@@ -78,7 +78,7 @@ I have played (and lost) against my friend [Eino Paasikangas](https://players.ch
  * [James Mortimer vs. Paul Morphy, various casual games](https://chesscafe.com/the-skittles-room/morphy-numbers-revisited/)
 
 ## Sabbath 5 (via Manu Mäkinen)
-As a demoscener I am usually coding art. However, in 2012 Manu Mäkinen made a song about our trip to a Norwegian demoparty Kindergarden based on my recording (I can be also heard in the background), hence earning me Sabbath number 5. Later this song was also featured in in-memoriam demo for DDT (the lead vocals in the song) coded by me.
+As a demoscener I am usually coding art. However, in 2012 Manu Mäkinen made a song about our trip to a Norwegian demoparty Kindergarden based on my recording (I can be also heard in the background), hence earning me Sabbath number 5. Later this song was also featured in [in-memoriam demo for DDT](https://demozoo.org/productions/199082/) (the lead vocals in the song) coded by me.
 
  * Ville Sundell
    [Aroma therapy](https://demozoo.org/music/51173/)
@@ -105,7 +105,7 @@ I am linked to the father of Linux and Git, Linus Torvalds, via a project shared
 I am linked to the prominent investor Marc Andreessen via 4 non-public business arrangements because of a startup co-owned with Jari Jaanto.
 
  * Ville Sundell was a co-owner of [Heimo](https://www.slideshare.net/slideshow/heimo-the-untellable-stories/62548233) with...
- * Jari Jaanto, who was a co-owner of Sulake with...
+ * Jari Jaanto, who was a co-owner of [Sulake](https://www.is.fi/tyoelama/art-2000000816767.html) with...
  * Benchmark, which was a co-owner [Cyanogen Inc.](https://www.geekwire.com/2013/cyanogenmod-raises-22m/) with...
  * a16z, which is co-owned by Marc Andreessen.
 
