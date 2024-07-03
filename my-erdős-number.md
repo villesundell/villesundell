@@ -38,21 +38,6 @@ One of the other co-authors of "[Free Beer 1.0](https://www.wikidata.org/wiki/Q1
    [New Ramsey Bounds from Cyclic Graphs of Prime Order](https://epubs.siam.org/doi/10.1137/S0895480196298378)
  * Paul Erdős
 
-## Dijkstra 5 (via Stefan Larsson)
-Stefan Larsson also connects me to the computer scientist [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra).
-
- * Ville Sundell
-   [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
- * Stefan Larsson
-   [On the importance of AI research beyond disciplines](https://arxiv.org/abs/2302.06655)
- * Virginia Dignum
-   [2003 AAAI Spring Symposium Series](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1723)
- * John McCarthy
-   [Report on the algorithmic language ALGOL 60](https://www.wikidata.org/wiki/Q55871759)
- * Alan J. Perlis
-   [On a political pamphlet from the middle ages](https://dl.acm.org/doi/10.1145/1005888.1005890)
- * Edsger W. Dijkstra
-
 ## Bacon 4 (via Janne Virtanen)
 I am linked to the actor [Kevin Bacon](https://en.wikipedia.org/wiki/Kevin_Bacon) via [Janne Virtanen](https://www.imdb.com/name/nm0899455/), whose son I played in the television dramaseries "[Pelastajat](https://www.wikidata.org/wiki/Q11887242)" in 1998, earning me [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number) 4.
 
@@ -65,17 +50,6 @@ I am linked to the actor [Kevin Bacon](https://en.wikipedia.org/wiki/Kevin_Bacon
  * George Clooney
    [8](https://www.themoviedb.org/movie/109404-8)
  * Kevin Bacon
-
-## Morphy 7 (via Eino Paasikangas)
-I have played (and lost) against my friend [Eino Paasikangas](https://players.chessbase.com/en/player/paasikangas_eino/631389) in 2015, connecting me to the chess master [Paul Morphy](https://en.wikipedia.org/wiki/Paul_Morphy), earning myself Morphy number 7.
-
- * [Ville Sundell vs. Eino Paasikangas, SalSK viikonlopputurnaus 2015](http://www.shakki.net/cgi-bin/selo?do=pelit&lista=selo&pvm=2015-10-18&pelaaja_id=9662)
- * [Eino Paasikangas vs. Eero Valkama, Loimaa We LoimSK 2010](https://share.chessbase.com/SharedGames/game/?p=uhuZnq2Jcj0uc7paUmuCrl6PTuinFP7o9y6jls7t6jqjeRLKBGFnwL1p+wP2/MEa)
- * [Gata Kamsky vs. Eero Valkama, GRENKE Chess Open 2019](https://share.chessbase.com/SharedGames/game/?p=uhuZnq2Jcj0uc7paUmuCrheEtU+e6biquGuIBSGyswj9IgHuc97QRhBdbk3Nv7eW)
- * [Vasily Smyslov vs. Gata Kamsky, New York Open 1989](https://www.chess.com/games/view/459917)
- * [Ossip Bernstein vs. Vasily Smyslov, Groningen 1946](https://www.chess.com/games/view/40211)
- * [Ossip Bernstein vs. James Mortimer, Ostend 1907](https://www.365chess.com/game.php?gid=2633844)
- * [James Mortimer vs. Paul Morphy, various casual games](https://chesscafe.com/the-skittles-room/morphy-numbers-revisited/)
 
 ## Sabbath 5 (via Manu Mäkinen)
 In the [Demoscene](https://en.wikipedia.org/wiki/Demoscene) I am usually coding "art". However, in 2012 [Manu Mäkinen](https://demozoo.org/sceners/23111/) made a song about our trip to a Norwegian demoparty Kindergarden based on my recording (I can be also heard in the background), eventually connecting me to Black Sabbath's founding member [Geezer Butler](https://en.wikipedia.org/wiki/Geezer_Butler) and earning me Sabbath number 5. Later this song was also featured in [in-memoriam demo for DDT](https://demozoo.org/productions/199082/) (the lead vocals in the song) coded by me.
@@ -91,6 +65,32 @@ In the [Demoscene](https://en.wikipedia.org/wiki/Demoscene) I am usually coding 
  * Eicca Toppinen
    [I'll Get Through It](https://www.apocalyptica.com/video/apocalyptica-and-franky-perez-feat-g-6--51-.html)
  * Geezer Butler
+
+ ## Morphy 7 (via Eino Paasikangas)
+I have played (and lost) against my friend [Eino Paasikangas](https://players.chessbase.com/en/player/paasikangas_eino/631389) in 2015, connecting me to the chess master [Paul Morphy](https://en.wikipedia.org/wiki/Paul_Morphy), earning myself Morphy number 7.
+
+ * [Ville Sundell vs. Eino Paasikangas, SalSK viikonlopputurnaus 2015](http://www.shakki.net/cgi-bin/selo?do=pelit&lista=selo&pvm=2015-10-18&pelaaja_id=9662)
+ * [Eino Paasikangas vs. Eero Valkama, Loimaa We LoimSK 2010](https://share.chessbase.com/SharedGames/game/?p=uhuZnq2Jcj0uc7paUmuCrl6PTuinFP7o9y6jls7t6jqjeRLKBGFnwL1p+wP2/MEa)
+ * [Gata Kamsky vs. Eero Valkama, GRENKE Chess Open 2019](https://share.chessbase.com/SharedGames/game/?p=uhuZnq2Jcj0uc7paUmuCrheEtU+e6biquGuIBSGyswj9IgHuc97QRhBdbk3Nv7eW)
+ * [Vasily Smyslov vs. Gata Kamsky, New York Open 1989](https://www.chess.com/games/view/459917)
+ * [Ossip Bernstein vs. Vasily Smyslov, Groningen 1946](https://www.chess.com/games/view/40211)
+ * [Ossip Bernstein vs. James Mortimer, Ostend 1907](https://www.365chess.com/game.php?gid=2633844)
+ * [James Mortimer vs. Paul Morphy, various casual games](https://chesscafe.com/the-skittles-room/morphy-numbers-revisited/)
+
+## Dijkstra 5 (via Stefan Larsson)
+Stefan Larsson also connects me to the computer scientist [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra).
+
+ * Ville Sundell
+   [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
+ * Stefan Larsson
+   [On the importance of AI research beyond disciplines](https://arxiv.org/abs/2302.06655)
+ * Virginia Dignum
+   [2003 AAAI Spring Symposium Series](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1723)
+ * John McCarthy
+   [Report on the algorithmic language ALGOL 60](https://www.wikidata.org/wiki/Q55871759)
+ * Alan J. Perlis
+   [On a political pamphlet from the middle ages](https://dl.acm.org/doi/10.1145/1005888.1005890)
+ * Edsger W. Dijkstra
 
 ## Torvalds 2 (via Mikko Ohtamaa)
 I am linked to the father of Linux and Git, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), via a project shared with [Mikko Ohtamaa](https://capitalgram.com/about/), who has contributed to the Linux kernel.
