@@ -6,7 +6,7 @@ I also introduce two more numbers: **Torvalds number** for programmers and **And
 ## Method
 While the [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is originally measured from co-authored academic articles, some sources, such as Wikidata, implicitly conform to a broader definition of the [Erdős-Bacon-Sabbath project](https://erdosbaconsabbath.fandom.com/wiki/Special:AllPages) (see the [Douglas Adams Wikidata item](https://www.wikidata.org/wiki/Q42), which is the resident showcase item on the [Wikidata Main Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)), covering all works of the same kind (in the case of Adams' Erdős number, including non-academic books linking Adams to the academic circle and Paul Erdős via [Mark Carwardine](https://www.wikidata.org/wiki/Q897408)).
 
-**In this document, we follow the format and interpretation of [the original Erdős-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues?q=is%3Aissue), linking all works of the same kind, such as acting in general instead of only in movies, and publication instead of scientific paper, etc.** For reference, Douglas Adams is discussed in [GitHub issue #16](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16).
+**In this document, we follow the format and interpretation of [the original Erdős-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues?q=is%3Aissue), linking all works of the same kind, such as acting in general instead of only in movies, and publication instead of scientific paper, etc.** For reference, Douglas Adams is discussed in their [GitHub issue #16](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16).
 
 ## Erdős 5 (via Stian Rødven Eide)
 I am linked to [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) via academic [Stian Rødven Eide](https://www.wikidata.org/wiki/Q101662382) ([Erdős 4](https://www.csauthors.net/stian-rodven-eide/)), with whom I published a book in 2009 called "[Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)" with a few others ([Amazon](https://www.amazon.com/dp/B005D2ZUUA)), giving me an Erdős number of 5 by the broader interpretation above. The book has been [cited](https://scholar.google.com/scholar?cites=17471154990118781681) in academic literature.
@@ -52,7 +52,7 @@ I am linked to the actor [Kevin Bacon](https://en.wikipedia.org/wiki/Kevin_Bacon
  * Kevin Bacon
 
 ## Sabbath 5 (via Manu Mäkinen)
-In the [Demoscene](https://en.wikipedia.org/wiki/Demoscene) I am usually coding "art". However, in 2012 [Manu Mäkinen](https://demozoo.org/sceners/23111/) made a song about our trip to a Norwegian demoparty, Kindergarden, based on my recording (I can also be heard in the background), eventually connecting me to the founding member of Black Sabbath, [Geezer Butler](https://en.wikipedia.org/wiki/Geezer_Butler), and earning me a Sabbath number of 5. Later, this song was also featured in an [in-memoriam demo for DDT](https://demozoo.org/productions/199082/) (the lead vocals in the song) coded by me.
+In the [Demoscene](https://en.wikipedia.org/wiki/Demoscene) I am usually coding "art". However, in 2012 [Manu Mäkinen](https://demozoo.org/sceners/23111/) made a song about our trip to a Norwegian demoparty, [Kindergarden](https://en.wikipedia.org/wiki/Kindergarden_(demoparty)), based on my recording (I can also be heard in the background), eventually connecting me to the founding member of Black Sabbath, [Geezer Butler](https://en.wikipedia.org/wiki/Geezer_Butler), and earning me a Sabbath number of 5. Later, this song was also featured in an [in-memoriam demo for DDT](https://demozoo.org/productions/199082/) (the lead vocals in the song) coded by me.
 
  * Ville Sundell
    [Aroma therapy](https://demozoo.org/music/51173/)
@@ -111,9 +111,9 @@ I am linked to the prominent investor [Marc Andreessen](https://en.wikipedia.org
 
 ## Combinations
 
-**Erdős–Bacon**: 9
+**Erdős–Bacon**: 9 (Bigger than any other known number.)
 
-**Erdős-Bacon-Sabbath**: 14 (Smaller than [Kevin Bacon's](https://erdosbaconsabbath.fandom.com/wiki/Kevin_Bacon).)
+**Erdős-Bacon-Sabbath**: 14 (Smaller than [Kevin Bacon's](https://erdosbaconsabbath.fandom.com/wiki/Kevin_Bacon)!)
 
 **Erdős-Bacon-Sabbath-Morphy**: 21 (First known instance.)
 
