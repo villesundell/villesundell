@@ -9,7 +9,7 @@ While the [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is or
 **In this document, we follow the format and interpretation of [the original Erdős-Bacon-Sabbath project](https://github.com/rchurchley/erdos-bacon-sabbath/issues?q=is%3Aissue), linking all works of the same kind, such as acting in general instead of only in movies, and publication instead of scientific paper, etc.** For reference, Douglas Adams is discussed in their [GitHub issue #16](https://github.com/rchurchley/erdos-bacon-sabbath/issues/16).
 
 ## Erdős 5 (via Stian Rødven Eide)
-I am linked to [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) via academic [Stian Rødven Eide](https://www.wikidata.org/wiki/Q101662382) ([Erdős 4](https://www.csauthors.net/stian-rodven-eide/)), with whom I published a book in 2009 called "[Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)" with a few others ([Amazon](https://www.amazon.com/dp/B005D2ZUUA)), giving me an Erdős number of 5 by the broader interpretation above. The book has been [cited](https://scholar.google.com/scholar?cites=17471154990118781681) in academic literature.
+I am linked to [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) via academic [Stian Rødven Eide](https://www.wikidata.org/wiki/Q101662382) ([Erdős 4](https://www.csauthors.net/stian-rodven-eide/)), with whom I published a book in 2009 called "Free Beer 1.0" with a few others ([Amazon](https://www.amazon.com/dp/B005D2ZUUA)), giving me an Erdős number of 5 by the broader interpretation above. The book has been [cited](https://scholar.google.com/scholar?cites=17471154990118781681) in academic literature.
 
  * Ville Sundell
    [Free Beer 1.0](https://www.wikidata.org/wiki/Q121505012)
@@ -108,6 +108,9 @@ I am linked to the prominent investor [Marc Andreessen](https://en.wikipedia.org
  * Jari Jaanto, who was a co-owner of [Sulake](https://www.is.fi/tyoelama/art-2000000816767.html) with...
  * Benchmark, which was a co-owner of [Cyanogen Inc.](https://www.geekwire.com/2013/cyanogenmod-raises-22m/) with...
  * a16z, which is co-owned by Marc Andreessen.
+
+## Sources for Graphs
+Feel free to use the [Mermaid source](https://gist.github.com/villesundell/8c03792b10a84c54df0eeee80b6e51c0) (CC0) to publish your graphs. You can also use [the SVG](https://jumpshare.com/v/siA0eqg1Yj1bxIVv4twK) (unfortunately released under non-permissive [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) because CC BY-SA pictures were used).
 
 ## Combinations
 
