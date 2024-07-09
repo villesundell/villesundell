@@ -48,7 +48,7 @@ I am linked to the actor [Kevin Bacon](https://en.wikipedia.org/wiki/Kevin_Bacon
  * Samuli Vauramo
    [The American](https://www.themoviedb.org/movie/27579-the-american)
  * George Clooney
-   [8](https://www.themoviedb.org/movie/109404-8)
+   [8](https://www.imdb.com/title/tt2290075/)
  * Kevin Bacon
 
 ## Sabbath 5 (via Manu Mäkinen)
