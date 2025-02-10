@@ -1,0 +1,609 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix data: <https://www.wikidata.org/wiki/Special:EntityData/> .
+@prefix s: <http://www.wikidata.org/entity/statement/> .
+@prefix ref: <http://www.wikidata.org/reference/> .
+@prefix v: <http://www.wikidata.org/value/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+
+data:Q123144723 a schema:Dataset ;
+	schema:about wd:Q123144723 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "2309022637"^^xsd:integer ;
+	schema:dateModified "2025-02-09T09:44:53Z"^^xsd:dateTime ;
+	wikibase:statements "45"^^xsd:integer ;
+	wikibase:sitelinks "0"^^xsd:integer ;
+	wikibase:identifiers "9"^^xsd:integer .
+
+wd:Q123144723 a wikibase:Item ;
+	wdt:P31 wd:Q5 ;
+	wdt:P39 wd:Q28720184 ;
+	wdt:P735 wd:Q29884 ;
+	wdt:P734 wd:Q27881897 ;
+	wdt:P496 "0000-0001-8050-2040" ;
+	wdtn:P496 <https://orcid.org/0000-0001-8050-2040> ;
+	wdt:P106 wd:Q5482740,
+		wd:Q131524,
+		wd:Q205375,
+		wd:Q970153 ;
+	wdt:P12014 "3029" ;
+	wdt:P1960 "AbyQLiYAAAAJ" ;
+	wdt:P19 wd:Q55095758 ;
+	wdt:P569 "1988-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P21 wd:Q6581097 ;
+	wdt:P27 wd:Q33 ;
+	wdt:P69 wd:Q11859833,
+		wd:Q5628931 ;
+	wdt:P6634 "villesundell" ;
+	wdt:P742 "Solarius" ;
+	wdt:P4174 "Solarius" ;
+	wdt:P103 wd:Q1412 ;
+	wdt:P1412 wd:Q1412,
+		wd:Q1860 ;
+	wdt:P6886 wd:Q1860 ;
+	wdt:P2037 "villesundell" ;
+	wdt:P856 <https://villesundell.com/> ;
+	wdt:P551 wd:Q829842 ;
+	wdt:P102 wd:Q196695 ;
+	wdt:P135 wd:Q1076638 ;
+	wdt:P3602 wd:Q56400478,
+		wd:Q107330788 ;
+	wdt:P6553 wd:L485 ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Ville%20Sundell%202020.jpg> ;
+	wdt:P3721 "6898 E361 40F0 3577 23C7  6499 4906 5E12 75E4 6F96",
+		"AB2866 D227FC 057236 75F233 48C9AF 1B9C6C CB3E48" ;
+	wdt:P2671 "/g/11l663_ybq" ;
+	wdtn:P2671 <http://g.co/kg/g/11l663_ybq> ;
+	wdt:P7238 "xnu5h" ;
+	wdt:P553 wd:Q3146821,
+		wd:Q165400 ;
+	wdt:P2021 "+5"^^xsd:decimal ;
+	wdt:P4033 "ville@villesundell.fi" ;
+	p:P31 s:Q123144723-0bb168e5-4610-fdbe-1cf1-525a6a58e538 .
+
+s:Q123144723-0bb168e5-4610-fdbe-1cf1-525a6a58e538 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P31 wd:Q5 .
+
+wd:Q123144723 p:P39 s:Q123144723-7859cff5-415b-47b7-2500-7ace5cb9b164 .
+
+s:Q123144723-7859cff5-415b-47b7-2500-7ace5cb9b164 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P39 wd:Q28720184 ;
+	pq:P580 "2021-08-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 v:48f6159bccdd0d453ea9af00e59191ac ;
+	pq:P102 wd:Q196695 ;
+	pq:P1111 "+29"^^xsd:decimal ;
+	pqv:P1111 v:df6caf84af38ffb6767b3b333de83fa9 ;
+	prov:wasDerivedFrom ref:5d9581360ee8443bcb8fa8b332c36d98e9456b5f .
+
+wd:Q123144723 p:P735 s:Q123144723-82de5beb-4232-681a-cbf5-f7762af378a6 .
+
+s:Q123144723-82de5beb-4232-681a-cbf5-f7762af378a6 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:PreferredRank ;
+	ps:P735 wd:Q29884 ;
+	pq:P1545 "2" ;
+	prov:wasDerivedFrom ref:035555fca6eb83abe96776ac2b7aa072f4dc29d6 .
+
+wd:Q123144723 p:P735 s:Q123144723-8668cee9-42d1-596b-1754-184b9ac48132 .
+
+s:Q123144723-8668cee9-42d1-596b-1754-184b9ac48132 a wikibase:Statement ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P735 wd:Q2072602 ;
+	pq:P1545 "1" ;
+	prov:wasDerivedFrom ref:035555fca6eb83abe96776ac2b7aa072f4dc29d6 .
+
+wd:Q123144723 p:P735 s:Q123144723-a24acab4-46fb-71ac-1cf4-6f19d2b1b0e6 .
+
+s:Q123144723-a24acab4-46fb-71ac-1cf4-6f19d2b1b0e6 a wikibase:Statement ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P735 wd:Q594279 ;
+	pq:P1545 "3" ;
+	prov:wasDerivedFrom ref:035555fca6eb83abe96776ac2b7aa072f4dc29d6 .
+
+wd:Q123144723 p:P734 s:Q123144723-5212b86d-4f63-6eb9-a730-4ef07d3437a8 .
+
+s:Q123144723-5212b86d-4f63-6eb9-a730-4ef07d3437a8 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P734 wd:Q27881897 ;
+	prov:wasDerivedFrom ref:323be97becfd18ea6625da4b3770079385901a18 .
+
+wd:Q123144723 p:P496 s:Q123144723-48a240fd-4c07-591b-b7c7-f6175a4d3d7e .
+
+s:Q123144723-48a240fd-4c07-591b-b7c7-f6175a4d3d7e a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P496 "0000-0001-8050-2040" ;
+	psn:P496 <https://orcid.org/0000-0001-8050-2040> .
+
+wd:Q123144723 p:P106 s:Q123144723-d0b33d4e-4b1c-6752-8d56-847f9fc5001e .
+
+s:Q123144723-d0b33d4e-4b1c-6752-8d56-847f9fc5001e a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P106 wd:Q5482740 ;
+	pq:P425 wd:Q7544035,
+		wd:Q1335007,
+		wd:Q386275 ;
+	prov:wasDerivedFrom ref:20092a0b629273723b5699399918eea957347231 .
+
+wd:Q123144723 p:P106 s:Q123144723-7fce41a4-4ec7-378b-75c1-985757742ce3 .
+
+s:Q123144723-7fce41a4-4ec7-378b-75c1-985757742ce3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P106 wd:Q131524 .
+
+wd:Q123144723 p:P106 s:Q123144723-09BAD95E-578C-4763-AB3F-D431618B3491 .
+
+s:Q123144723-09BAD95E-578C-4763-AB3F-D431618B3491 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P106 wd:Q205375 .
+
+wd:Q123144723 p:P106 s:Q123144723-ef3fb1e7-460f-bb8b-6c80-a19c4d82d10f .
+
+s:Q123144723-ef3fb1e7-460f-bb8b-6c80-a19c4d82d10f a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P106 wd:Q970153 ;
+	prov:wasDerivedFrom ref:b4a070b3f4b8a663cd08bb3544ab6535048c9529 .
+
+wd:Q123144723 p:P12014 s:Q123144723-448b92f2-420e-ada6-71d7-5f4a889aef4e .
+
+s:Q123144723-448b92f2-420e-ada6-71d7-5f4a889aef4e a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P12014 "3029" .
+
+wd:Q123144723 p:P1960 s:Q123144723-1cf72d1c-4a62-ac65-35a2-e8e070f3f9da .
+
+s:Q123144723-1cf72d1c-4a62-ac65-35a2-e8e070f3f9da a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1960 "AbyQLiYAAAAJ" .
+
+wd:Q123144723 p:P19 s:Q123144723-3414caec-468c-50cc-4be0-156078a03504 .
+
+s:Q123144723-3414caec-468c-50cc-4be0-156078a03504 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P19 wd:Q55095758 ;
+	prov:wasDerivedFrom ref:3583d806ce1f257269b913eba37aaad511ce455d .
+
+wd:Q123144723 p:P569 s:Q123144723-8f62667e-4df7-5bb3-c0ae-9fcde61613df .
+
+s:Q123144723-8f62667e-4df7-5bb3-c0ae-9fcde61613df a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P569 "1988-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P569 v:764eb9a11460dd8f6b5956f3f77f2129 ;
+	prov:wasDerivedFrom ref:035555fca6eb83abe96776ac2b7aa072f4dc29d6 .
+
+wd:Q123144723 p:P21 s:Q123144723-031f655c-448f-8a98-3a19-ca09b9938ba0 .
+
+s:Q123144723-031f655c-448f-8a98-3a19-ca09b9938ba0 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P21 wd:Q6581097 .
+
+wd:Q123144723 p:P27 s:Q123144723-096726df-468c-77dd-e593-94ad431e4382 .
+
+s:Q123144723-096726df-468c-77dd-e593-94ad431e4382 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P27 wd:Q33 .
+
+wd:Q123144723 p:P69 s:Q123144723-b838ceef-4f19-3e59-35f9-02c518a1d832 .
+
+s:Q123144723-b838ceef-4f19-3e59-35f9-02c518a1d832 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P69 wd:Q11859833 ;
+	pq:P7374 wd:Q6869278 ;
+	pq:P512 wd:Q11855821 ;
+	pq:P2047 "+3"^^xsd:decimal ;
+	pqv:P2047 v:36d824848659f6867616513925543273 ;
+	pqn:P2047 v:1f61c24c6d4a4c57defcebeb90ed3317 ;
+	pq:P580 "2004-08-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 v:a7c5d3b685a428d342b97b0be7f24b0e ;
+	pq:P582 "2007-05-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 v:11cbff98573a442e5b0ddde24708fa5d ;
+	prov:wasDerivedFrom ref:026b2e3a6b98c402a3159f87ea96683d2a88c26c .
+
+wd:Q123144723 p:P69 s:Q123144723-cb200e8d-48d7-702f-713e-b8d9be21b84e .
+
+s:Q123144723-cb200e8d-48d7-702f-713e-b8d9be21b84e a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P69 wd:Q5628931 ;
+	pq:P7374 wd:Q17028020 ;
+	pq:P812 wd:Q126095 ;
+	a wdno:P512 ;
+	pq:P580 "2007-09-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 v:1fbef52637f931e64289ecbdf142113f ;
+	pq:P582 "2013-08-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 v:bd80d235fcb1ccf8187e39042d03ca76 ;
+	prov:wasDerivedFrom ref:026b2e3a6b98c402a3159f87ea96683d2a88c26c .
+
+wd:Q123144723 p:P6634 s:Q123144723-526a2b68-4439-3933-8832-0b01a2bf798e .
+
+s:Q123144723-526a2b68-4439-3933-8832-0b01a2bf798e a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6634 "villesundell" .
+
+wd:Q123144723 p:P742 s:Q123144723-c024404e-45fa-8d4a-5ab6-ecd939a06d54 .
+
+s:Q123144723-c024404e-45fa-8d4a-5ab6-ecd939a06d54 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P742 "Solarius" ;
+	prov:wasDerivedFrom ref:026b2e3a6b98c402a3159f87ea96683d2a88c26c .
+
+wd:Q123144723 p:P4174 s:Q123144723-3756feb0-49bc-ab63-b01c-7890fd90ccad .
+
+s:Q123144723-3756feb0-49bc-ab63-b01c-7890fd90ccad a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P4174 "Solarius" ;
+	prov:wasDerivedFrom ref:9661c3140f417e11def820601c1ac200b898a2a5 .
+
+wd:Q123144723 p:P103 s:Q123144723-87791feb-47e3-12bf-a85c-0112ad831317 .
+
+s:Q123144723-87791feb-47e3-12bf-a85c-0112ad831317 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P103 wd:Q1412 .
+
+wd:Q123144723 p:P1412 s:Q123144723-4e04f70c-4371-e29f-1c43-6108a0545073 .
+
+s:Q123144723-4e04f70c-4371-e29f-1c43-6108a0545073 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1412 wd:Q1412 .
+
+wd:Q123144723 p:P1412 s:Q123144723-247e9abd-401d-186b-2cf2-727b3c9bcae2 .
+
+s:Q123144723-247e9abd-401d-186b-2cf2-727b3c9bcae2 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1412 wd:Q1860 .
+
+wd:Q123144723 p:P6886 s:Q123144723-59f3c427-4ce2-3c4a-4e1e-96aeead12dfd .
+
+s:Q123144723-59f3c427-4ce2-3c4a-4e1e-96aeead12dfd a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6886 wd:Q1860 .
+
+wd:Q123144723 p:P2037 s:Q123144723-518270df-486d-6725-214f-3016e4474259 .
+
+s:Q123144723-518270df-486d-6725-214f-3016e4474259 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P2037 "villesundell" .
+
+wd:Q123144723 p:P856 s:Q123144723-fac835f3-4e19-043b-75b3-e0323ebdfa04 .
+
+s:Q123144723-fac835f3-4e19-043b-75b3-e0323ebdfa04 a wikibase:Statement ;
+	wikibase:rank wikibase:DeprecatedRank ;
+	ps:P856 <http://www.surffi.net/~ritkomu/> ;
+	pq:P407 wd:Q1412 .
+
+wd:Q123144723 p:P856 s:Q123144723-75a710d8-4af3-e73d-a01a-1139035e951b .
+
+s:Q123144723-75a710d8-4af3-e73d-a01a-1139035e951b a wikibase:Statement ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P856 <https://villesundell.fi/> ;
+	pq:P407 wd:Q1412 ;
+	prov:wasDerivedFrom ref:bdf3355d61c3e7e778fa33719e36a1634049d27d .
+
+wd:Q123144723 p:P856 s:Q123144723-10e7622d-4fc6-7917-5438-10c61f3b3449 .
+
+s:Q123144723-10e7622d-4fc6-7917-5438-10c61f3b3449 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:PreferredRank ;
+	ps:P856 <https://villesundell.com/> ;
+	pq:P407 wd:Q1860 ;
+	prov:wasDerivedFrom ref:bdf3355d61c3e7e778fa33719e36a1634049d27d .
+
+wd:Q123144723 p:P551 s:Q123144723-3c867ddf-48df-d085-4ced-0b8dadbf58c1 .
+
+s:Q123144723-3c867ddf-48df-d085-4ced-0b8dadbf58c1 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P551 wd:Q829842 ;
+	prov:wasDerivedFrom ref:e19ae336384396c1de77bdf396e96757a08b8502 .
+
+wd:Q123144723 p:P102 s:Q123144723-5a6bc58f-46d2-5111-db18-d7784d5d8aa9 .
+
+s:Q123144723-5a6bc58f-46d2-5111-db18-d7784d5d8aa9 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P102 wd:Q196695 ;
+	prov:wasDerivedFrom ref:e19ae336384396c1de77bdf396e96757a08b8502 .
+
+wd:Q123144723 p:P135 s:Q123144723-349efcd0-4ca8-cdb4-6536-273ba8b63faa .
+
+s:Q123144723-349efcd0-4ca8-cdb4-6536-273ba8b63faa a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P135 wd:Q1076638 ;
+	prov:wasDerivedFrom ref:f43b119a3cb55c7df48fda5d15e7e79d4ed0964b .
+
+wd:Q123144723 p:P3602 s:Q123144723-0fd7055a-47d3-236d-2b04-88e2020400a4 .
+
+s:Q123144723-0fd7055a-47d3-236d-2b04-88e2020400a4 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P3602 wd:Q56400478 ;
+	prov:wasDerivedFrom ref:38b60f27a6e955030864cab69bad916972c4ff76 .
+
+wd:Q123144723 p:P3602 s:Q123144723-9b7e0589-46e1-d47a-8a08-13919c02c54c .
+
+s:Q123144723-9b7e0589-46e1-d47a-8a08-13919c02c54c a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P3602 wd:Q107330788 ;
+	prov:wasDerivedFrom ref:ee26411b38cb521603241595689249fb77244787 .
+
+wd:Q123144723 p:P6553 s:Q123144723-b5008fc8-4f52-0c9e-9e76-b02fd3bde7ea .
+
+s:Q123144723-b5008fc8-4f52-0c9e-9e76-b02fd3bde7ea a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6553 wd:L485 ;
+	prov:wasDerivedFrom ref:4a7a3d2eb879d06c7824481952232786f907e26f .
+
+wd:Q123144723 p:P18 s:Q123144723-e72757c0-4b1e-f0f7-0de7-845dccdbc0ed .
+
+s:Q123144723-e72757c0-4b1e-f0f7-0de7-845dccdbc0ed a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Ville%20Sundell%202020.jpg> .
+
+wd:Q123144723 p:P3721 s:Q123144723-8eafee2c-4e31-db87-118e-5f0786714d1a .
+
+s:Q123144723-8eafee2c-4e31-db87-118e-5f0786714d1a a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P3721 "6898 E361 40F0 3577 23C7  6499 4906 5E12 75E4 6F96" ;
+	pq:P459 wd:Q2141493 ;
+	pq:P1476 "Ville Sundell"@fi ;
+	prov:wasDerivedFrom ref:602931182d8dcb4337355fcfe1fd704fd8089860 .
+
+wd:Q123144723 p:P3721 s:Q123144723-614f9c78-444f-63d1-bdde-f1a60c888366 .
+
+s:Q123144723-614f9c78-444f-63d1-bdde-f1a60c888366 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P3721 "AB2866 D227FC 057236 75F233 48C9AF 1B9C6C CB3E48" ;
+	pq:P459 wd:Q115377512 ;
+	pq:P2699 <https://github.com/villesundell/villesundell/blob/main/post-quantum-signatures.md> ;
+	prov:wasDerivedFrom ref:f03bb09947dd1b9f5a90e19d582f929a5f3e1c85 .
+
+wd:Q123144723 p:P2671 s:Q123144723-56863ec0-4310-aa2e-b539-e963abc1eace .
+
+s:Q123144723-56863ec0-4310-aa2e-b539-e963abc1eace a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P2671 "/g/11l663_ybq" ;
+	psn:P2671 <http://g.co/kg/g/11l663_ybq> .
+
+wd:Q123144723 p:P7238 s:Q123144723-c6dbd966-4b6e-576d-325d-ffd7a4e17b76 .
+
+s:Q123144723-c6dbd966-4b6e-576d-325d-ffd7a4e17b76 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P7238 "xnu5h" .
+
+wd:Q123144723 p:P553 s:Q123144723-39ffc842-4dc4-bf5e-eb9f-3df24c16b98f .
+
+s:Q123144723-39ffc842-4dc4-bf5e-eb9f-3df24c16b98f a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P553 wd:Q3146821 ;
+	pq:P554 "Solarius" ;
+	pq:P2699 <https://irc-galleria.net/user/Solarius> .
+
+wd:Q123144723 p:P553 s:Q123144723-1f0bf306-4dc3-4df0-62fb-55ba0d372e62 .
+
+s:Q123144723-1f0bf306-4dc3-4df0-62fb-55ba0d372e62 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P553 wd:Q165400 ;
+	pq:P554 "ville.solarius" ;
+	pq:P2699 <https://sourceforge.net/u/ville.solarius> .
+
+wd:Q123144723 p:P2021 s:Q123144723-cda57a01-40d0-b93b-5e87-621084646186 .
+
+s:Q123144723-cda57a01-40d0-b93b-5e87-621084646186 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P2021 "+5"^^xsd:decimal ;
+	psv:P2021 v:abeb4fe06f6f264bbfe920d37948a303 ;
+	pq:P585 "2024-06-24T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 v:e0be252fc0f3cc50c733534cf5dd1e04 ;
+	prov:wasDerivedFrom ref:3e900fab220840fafc049847b87e43f6eb02d1e6 .
+
+wd:Q123144723 p:P4033 s:Q123144723-fc69a326-4aca-da6a-e80a-bc7d46bf1b57 .
+
+s:Q123144723-fc69a326-4aca-da6a-e80a-bc7d46bf1b57 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P4033 "ville@villesundell.fi" ;
+	pq:P580 "2024-08-09T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 v:b8797d18c77d5e2dfbb50d87e711a1bf ;
+	prov:wasDerivedFrom ref:1595b39038c1cbcc363b596caba284a180ce93e0 .
+
+wd:Q123144723 rdfs:label "Ville Sundell"@en ;
+	skos:prefLabel "Ville Sundell"@en ;
+	schema:name "Ville Sundell"@en ;
+	rdfs:label "Ville Sundell"@fi ;
+	skos:prefLabel "Ville Sundell"@fi ;
+	schema:name "Ville Sundell"@fi ;
+	rdfs:label "Ville Sundell"@ast ;
+	skos:prefLabel "Ville Sundell"@ast ;
+	schema:name "Ville Sundell"@ast ;
+	schema:description "Finnish computer programmer"@en,
+		"suomalainen ohjelmoija"@fi,
+		"programador finlandés"@ast .
+
+v:df6caf84af38ffb6767b3b333de83fa9 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+29"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+v:36d824848659f6867616513925543273 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+3"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q577> .
+
+v:1f61c24c6d4a4c57defcebeb90ed3317 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+94608000"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q11574> ;
+	wikibase:quantityNormalized v:1f61c24c6d4a4c57defcebeb90ed3317 .
+
+v:36d824848659f6867616513925543273 wikibase:quantityNormalized v:1f61c24c6d4a4c57defcebeb90ed3317 .
+
+v:abeb4fe06f6f264bbfe920d37948a303 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+5"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+v:48f6159bccdd0d453ea9af00e59191ac a wikibase:TimeValue ;
+	wikibase:timeValue "2021-08-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+v:c1bf0bce1c00cc492f732a8bbd6ebe61 a wikibase:TimeValue ;
+	wikibase:timeValue "2023-10-21T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+v:764eb9a11460dd8f6b5956f3f77f2129 a wikibase:TimeValue ;
+	wikibase:timeValue "1988-01-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "9"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+v:a7c5d3b685a428d342b97b0be7f24b0e a wikibase:TimeValue ;
+	wikibase:timeValue "2004-08-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "10"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+v:11cbff98573a442e5b0ddde24708fa5d a wikibase:TimeValue ;
+	wikibase:timeValue "2007-05-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "10"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+v:1fbef52637f931e64289ecbdf142113f a wikibase:TimeValue ;
+	wikibase:timeValue "2007-09-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "10"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+v:bd80d235fcb1ccf8187e39042d03ca76 a wikibase:TimeValue ;
+	wikibase:timeValue "2013-08-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "10"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+v:e0be252fc0f3cc50c733534cf5dd1e04 a wikibase:TimeValue ;
+	wikibase:timeValue "2024-06-24T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+v:b8797d18c77d5e2dfbb50d87e711a1bf a wikibase:TimeValue ;
+	wikibase:timeValue "2024-08-09T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+ref:5d9581360ee8443bcb8fa8b332c36d98e9456b5f a wikibase:Reference ;
+	pr:P854 <https://www.forssa.fi/kaupunki-ja-hallinto/paatoksenteko/kaupunginvaltuusto/> ;
+	pr:P813 "2023-10-21T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 v:c1bf0bce1c00cc492f732a8bbd6ebe61 .
+
+ref:035555fca6eb83abe96776ac2b7aa072f4dc29d6 a wikibase:Reference ;
+	pr:P854 <https://verokone.hs.fi/henkilo/1988Sundell%20Pertti%20Ville%20Henrik> .
+
+ref:323be97becfd18ea6625da4b3770079385901a18 a wikibase:Reference ;
+	pr:P887 wd:Q97033143 .
+
+ref:20092a0b629273723b5699399918eea957347231 a wikibase:Reference ;
+	pr:P854 <https://linkedin.com/in/villesundell> .
+
+ref:b4a070b3f4b8a663cd08bb3544ab6535048c9529 a wikibase:Reference ;
+	pr:P1651 "YUMKLJ4goWM" .
+
+ref:3583d806ce1f257269b913eba37aaad511ce455d a wikibase:Reference ;
+	pr:P854 <https://www.villesundell.fi/> ;
+	pr:P1683 "paljasjalkainen forssalaisnörtti"@fi .
+
+ref:026b2e3a6b98c402a3159f87ea96683d2a88c26c a wikibase:Reference ;
+	pr:P854 <https://www.linkedin.com/in/villesundell/> .
+
+ref:9661c3140f417e11def820601c1ac200b898a2a5 a wikibase:Reference ;
+	pr:P854 <https://meta.wikimedia.org/wiki/User:Solarius> .
+
+ref:bdf3355d61c3e7e778fa33719e36a1634049d27d a wikibase:Reference ;
+	pr:P854 <https://orcid.org/0000-0001-8050-2040> .
+
+ref:e19ae336384396c1de77bdf396e96757a08b8502 a wikibase:Reference ;
+	pr:P854 <https://villesundell.fi/> .
+
+ref:f43b119a3cb55c7df48fda5d15e7e79d4ed0964b a wikibase:Reference ;
+	pr:P4656 <https://en.wikipedia.org/wiki/User:Solarius> .
+
+ref:38b60f27a6e955030864cab69bad916972c4ff76 a wikibase:Reference ;
+	pr:P854 <https://vaalit.yle.fi/kv2021/en/regions/6/municipalities/61/candidates/123/> .
+
+ref:ee26411b38cb521603241595689249fb77244787 a wikibase:Reference ;
+	pr:P854 <https://vaalit.yle.fi/av2022/en/tulospalvelu/counties/7/candidates/353/> .
+
+ref:4a7a3d2eb879d06c7824481952232786f907e26f a wikibase:Reference ;
+	pr:P854 <https://www.linkedin.com/pulse/i-wrong-ville-sundell> .
+
+ref:602931182d8dcb4337355fcfe1fd704fd8089860 a wikibase:Reference ;
+	pr:P854 <https://github.com/taoheorg/taohe#trusted-source> .
+
+ref:f03bb09947dd1b9f5a90e19d582f929a5f3e1c85 a wikibase:Reference ;
+	pr:P854 <https://github.com/villesundell/li2utils> .
+
+ref:3e900fab220840fafc049847b87e43f6eb02d1e6 a wikibase:Reference ;
+	pr:P854 <https://github.com/villesundell/villesundell/blob/main/my-erd%C5%91s-and-other-numbers.md> .
+
+ref:1595b39038c1cbcc363b596caba284a180ce93e0 a wikibase:Reference ;
+	pr:P854 <https://villesundell.fi/author/ville/> .
