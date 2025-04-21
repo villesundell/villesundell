@@ -5,7 +5,7 @@ Programmer since the turn of the millennium on UNIX-based systems for the Web an
 **Scientific articles**: [Code is Law: A Legal Justification of Irreversible Execution of Smart Contracts through Consideration](https://doi.org/10.31219/osf.io/z9gma).
 
 <a href="https://www.linkedin.com/in/villesundell/">
-  <img align="left" alt="Ville's LinkedIn" width="22px" style="padding-right: 5px;" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="left" alt="Ville's LinkedIn" width="22px" style="padding-right: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 [villesundell.com](https://www.villesundell.com) / [move.engineer](http://move.engineer) / [GitLab](https://gitlab.com/villesundell)
