@@ -8,7 +8,7 @@ Programmer since the turn of the millennium on UNIX-based systems for the Web an
   <img align="left" alt="Ville's LinkedIn" width="22px" style="padding-right: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
-[villesundell.com](https://www.villesundell.com) / [move.engineer](http://move.engineer) / [GitLab](https://gitlab.com/villesundell)
+[villesundell.com](https://www.villesundell.com) / [GitLab](https://gitlab.com/villesundell)
 
 <!--
 **villesundell/villesundell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
